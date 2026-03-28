@@ -46,11 +46,11 @@
 ## 📥 TRANSMISSION_CHANNELS
 
 <p align="center">
+<p align="center">
   <a href="mailto:yousra.rpro@gmail.com">
     <img src="https://img.shields.io/badge/Email-yousra.rpro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yousra-rouibi-531062375">
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/yousra-rouibi-531062375">
     <img src="https://img.shields.io/badge/LinkedIn-Yousra_Rouibi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
