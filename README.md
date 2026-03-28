@@ -43,16 +43,6 @@
 
 ---
 
-## 📊 DATA_ANALYTICS (GitHub Stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ysrbi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Yousra's Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysrbi&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" alt="Top Langs" />
-</p>
-
----
-
 ## 📥 TRANSMISSION_CHANNELS
 
 <p align="center">
